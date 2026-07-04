@@ -65,9 +65,6 @@ Travel itinerary builder with PDF generation.
 ### 🌐 Portfolio Website
 Personal portfolio showcasing skills and projects.
 
-### 🔄 n8n Workflow Automation
-Automated repetitive tasks and data flows.
-
 ### 🧪 Selenium Testing Projects
 Web automation and testing framework.
 
@@ -111,7 +108,7 @@ Web automation and testing framework.
 
 ## 🌍 Connect With Me
 
-💼 LinkedIn: www.linkedin.com/in/shuman-kumari-398a6b31b  
+💼 LinkedIn: [www.linkedin.com/in/shuman-kumari-398a6b31b  ](https://www.linkedin.com/in/shuman76/)
 🧠 HackerRank: https://www.hackerrank.com/profile/shuman76  
 📧 Email: shumank135@gmail.com  
 🌐 Portfolio: (add your live portfolio link)
