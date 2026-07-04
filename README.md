@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Shuman%20Kumari&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20Engineer%20%7C%20Frontend%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications+%F0%9F%A4%96;Automation+Systems+%26+n8n+Workflows+%E2%9A%A1;Scalable+Full-Stack+Web+Products+%F0%9F%9A%80;Turning+Ideas+Into+Shipped+Products+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications+%F0%9F%A4%96;Automation+Systems+%26+n8n+Workflows+%E2%9A%A1;Scalable+Full-Stack+Web+Products+%F0%9F%9A%80;Turning+Ideas+Into+Shipped+Products+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/>
 
@@ -171,21 +171,13 @@ Web automation and testing framework.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suman9496&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Suman9496&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suman9496&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
-
-<details>
-<summary align="center">🐍 My GitHub Activity Snake</summary>
-<br/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Suman9496/Suman9496/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</div>
-</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
