@@ -128,17 +128,12 @@ Personal portfolio showcasing skills and projects.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Suman9496&show_icons=true&theme=tokyonight"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Suman9496&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman9496&layout=compact&theme=tokyonight"/>
-</p>
+
 
 ---
 
@@ -148,7 +143,6 @@ Personal portfolio showcasing skills and projects.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suman9496&theme=tokyo-night&hide_border=true" width="95%"/>
 </div>
 
-> If this graph doesn't render on first load, it's a free public widget with occasional slowness — refresh, and it'll come back. It isn't tied to your file.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=fadeIn" width="100%"/>
 
