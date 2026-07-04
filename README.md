@@ -39,7 +39,6 @@ Building AI-powered applications, automation systems, and scalable web products.
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Database
@@ -108,10 +107,10 @@ Web automation and testing framework.
 
 ## 🌍 Connect With Me
 
-💼 LinkedIn: [www.linkedin.com/in/shuman-kumari-398a6b31b  ](https://www.linkedin.com/in/shuman76/)
+💼 LinkedIn: (https://www.linkedin.com/in/shuman76/)
 🧠 HackerRank: https://www.hackerrank.com/profile/shuman76  
 📧 Email: shumank135@gmail.com  
-🌐 Portfolio: (add your live portfolio link)
+🌐 Portfolio: (https://suman9496.github.io/)
 
 ---
 
