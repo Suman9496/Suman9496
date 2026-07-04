@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Shuman%20Kumari&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20Engineer%20%7C%20Frontend%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications+%F0%9F%A4%96;Automation+Systems+%26+n8n+Workflows+%E2%9A%A1;Scalable+Full-Stack+Web+Products+%F0%9F%9A%80;Turning+Ideas+Into+Shipped+Products+%F0%9F%92%BB" alt="Typing SVG" />
-
-<br/>
+**Turning ideas into shipped, AI-powered products — one automated workflow at a time.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Suman9496&color=D97757&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/Suman9496?style=for-the-badge&color=D97757&labelColor=black)
@@ -12,23 +10,32 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🚀 About Me
 
-```yaml
-name: Shuman Kumari
-role: Full-Stack Developer & AI Automation Engineer
-focus:
-  - 💻 Full-Stack Developer with experience in building scalable web applications
-  - 🤖 Specialized in AI-powered workflows, automation systems, and LLM integrations
-  - 🔍 Skilled in Web Scraping, Selenium Automation, and n8n workflow building
-  - 🌐 Strong frontend foundation in React and modern JavaScript
-  - 🐍 Backend experience with Python, Django, Node.js, and SQL
-  - 🎯 Currently pursuing MCA while building real-world products
+```bash
+shuman@dev:~$ whoami
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+> 💻 &nbsp;**Full-Stack Developer** building scalable, production-ready web applications
+>
+> 🤖 &nbsp;**AI Automation Engineer** — I turn repetitive workflows into self-running systems using LLMs, n8n, and Python
+>
+> 🔍 &nbsp;Deep in **web scraping, Selenium automation**, and intelligent scraping pipelines that don't break
+>
+> 🌐 &nbsp;Frontend built on **React** and modern JavaScript — clean, accessible, fast
+>
+> 🐍 &nbsp;Backend powered by **Python, Django, Node.js & SQL**
+>
+> 🎯 &nbsp;Currently pursuing my **MCA** while shipping real products on the side
+
+```bash
+shuman@dev:~$ status --current
+> Building AI systems that think, scrape, and automate 🔥
+```
+
+---
 
 ## ⚡ What I Build
 
@@ -75,7 +82,7 @@ Polished, production-ready UI
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
 ## 🛠 Tech Stack
 
@@ -121,7 +128,7 @@ Polished, production-ready UI
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
 ## 🚀 Featured Projects
 
@@ -160,7 +167,7 @@ Web automation and testing framework.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
 ## 📈 GitHub Stats
 
@@ -169,17 +176,9 @@ Web automation and testing framework.
 <img src="https://github-readme-stats.vercel.app/api?username=Suman9496&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman9496&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Suman9496&theme=tokyonight&hide_border=true" width="60%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suman9496&theme=tokyo-night&hide_border=true" width="90%"/>
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
 ## 📚 Currently Building
 
@@ -201,7 +200,7 @@ Web automation and testing framework.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
 ## 🌍 Connect With Me
 
