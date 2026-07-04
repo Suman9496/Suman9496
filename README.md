@@ -10,7 +10,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=fadeIn" width="100%"/>
 
 ## 🚀 About Me
 
@@ -26,7 +26,7 @@ shuman@dev:~$ whoami
 >
 > 🌐 &nbsp;Frontend built on **React** and modern JavaScript — clean, accessible, fast
 >
-> 🐍 &nbsp;Backend powered by **Python, Django, Node.js & SQL**
+> 🐍 &nbsp;Backend powered by **Python, Node.js & SQL**
 >
 > 🎯 &nbsp;Currently pursuing my **MCA** while shipping real products on the side
 
@@ -35,7 +35,7 @@ shuman@dev:~$ status --current
 > Building AI systems that think, scrape, and automate 🔥
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=fadeIn" width="100%"/>
 
 ## 🌍 Portfolio & Socials
 
@@ -48,7 +48,7 @@ shuman@dev:~$ status --current
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=fadeIn" width="100%"/>
 
 ## 🛠 Tech Stack
 
@@ -60,11 +60,11 @@ shuman@dev:~$ status --current
 
 **Backend & Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,python,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql" />
 
 **Cloud & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,vercel,railway,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,railway,git,github" />
 
 **Testing & Automation**
 <br/>
@@ -72,69 +72,68 @@ shuman@dev:~$ status --current
 
 **AI / LLM Tooling**
 <br/>
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**📈 SEO & Analytics**
+<br/>
+![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=google&logoColor=white)
+![GA4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
+![SEOptimer](https://img.shields.io/badge/SEOptimer-00AEEF?style=for-the-badge)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=fadeIn" width="100%"/>
 
 ## ⚡ Currently Building
 
 - 🤖 **AI Job Scraper System** — smart automated job scraping & filtering
 - ⚡ **Advanced n8n Automations** — workflow orchestration at scale
-- 🧪 **Selenium Testing Framework** — robust QA automation
-- 📄 **AI Resume Analyzer** — LLM-powered resume insights
-- 🐍 **Django AI Apps** — full-stack apps with AI baked in
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=fadeIn" width="100%"/>
 
 ## 🌟 Featured Projects
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
 ### 🤖 AI Job Scraper
 Smart automated job scraping and filtering system.
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
 ### 🌍 JourneyScript
 Travel itinerary builder with PDF generation.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" align="center">
 
 ### 🌐 Portfolio Website
 Personal portfolio showcasing skills and projects.
 
 </td>
-<td width="50%">
-
-### 🧪 Selenium Testing Projects
-Web automation and testing framework.
-
-</td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=fadeIn" width="100%"/>
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suman9496&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman9496&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Suman9496&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman9496&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
 
 </div>
+
+> **Not seeing your stats card?** This is the free public `github-readme-stats.vercel.app` instance — it's a community-run service (not something in your file) and it occasionally rate-limits or has downtime. Try a hard refresh first. If it stays blank, self-hosting your own Vercel instance or switching to the [GitHub Readme Stats Action](https://github.com/marketplace/actions/github-readme-stats-action) (bakes a static SVG into your repo) fixes it for good.
 
 ### 📊 Contribution Graph
 
@@ -144,7 +143,7 @@ Web automation and testing framework.
 
 > If this graph doesn't render on first load, it's a free public widget with occasional slowness — refresh, and it'll come back. It isn't tied to your file.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=fadeIn" width="100%"/>
 
 ## 🏆 Certifications
 
@@ -158,7 +157,7 @@ Web automation and testing framework.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
