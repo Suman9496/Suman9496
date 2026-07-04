@@ -56,6 +56,8 @@ shuman@dev:~$ status --current
 
 **Frontend**
 <br/>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
 
 **Backend & Database**
@@ -64,7 +66,7 @@ shuman@dev:~$ status --current
 
 **Cloud & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,railway,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,git,github" />
 
 **Testing & Automation**
 <br/>
@@ -126,14 +128,19 @@ Personal portfolio showcasing skills and projects.
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Suman9496&show_icons=true&theme=tokyonight"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suman9496&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman9496&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Suman9496&theme=tokyonight"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman9496&layout=compact&theme=tokyonight"/>
+</p>
 
-> **Not seeing your stats card?** This is the free public `github-readme-stats.vercel.app` instance — it's a community-run service (not something in your file) and it occasionally rate-limits or has downtime. Try a hard refresh first. If it stays blank, self-hosting your own Vercel instance or switching to the [GitHub Readme Stats Action](https://github.com/marketplace/actions/github-readme-stats-action) (bakes a static SVG into your repo) fixes it for good.
+---
 
 ### 📊 Contribution Graph
 
