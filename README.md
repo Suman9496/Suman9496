@@ -1,35 +1,85 @@
-<h1 align="center">Hi 👋, I'm Shuman Kumari</h1>
-<h3 align="center">Full-Stack Developer | AI Automation Engineer | Frontend Specialist</h3>
+<div align="center">
 
-<p align="center">
-Building AI-powered applications, automation systems, and scalable web products.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Shuman%20Kumari&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20Engineer%20%7C%20Frontend%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications+%F0%9F%A4%96;Automation+Systems+%26+n8n+Workflows+%E2%9A%A1;Scalable+Full-Stack+Web+Products+%F0%9F%9A%80;Turning+Ideas+Into+Shipped+Products+%F0%9F%92%BB" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Suman9496&color=D97757&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Suman9496?style=for-the-badge&color=D97757&labelColor=black)
+![Stars](https://img.shields.io/github/stars/Suman9496?style=for-the-badge&color=D97757&labelColor=black)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 About Me
 
-💻 Full-Stack Developer with experience in building scalable web applications  
-🤖 Specialized in AI-powered workflows, automation systems, and LLM integrations  
-🔍 Skilled in Web Scraping, Selenium Automation, and n8n workflow building  
-🌐 Strong frontend foundation in React and modern JavaScript  
-🐍 Backend experience with Python, Django, Node.js, and SQL  
-🎯 Currently pursuing MCA while building real-world products  
+```yaml
+name: Shuman Kumari
+role: Full-Stack Developer & AI Automation Engineer
+focus:
+  - 💻 Full-Stack Developer with experience in building scalable web applications
+  - 🤖 Specialized in AI-powered workflows, automation systems, and LLM integrations
+  - 🔍 Skilled in Web Scraping, Selenium Automation, and n8n workflow building
+  - 🌐 Strong frontend foundation in React and modern JavaScript
+  - 🐍 Backend experience with Python, Django, Node.js, and SQL
+  - 🎯 Currently pursuing MCA while building real-world products
+```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ## ⚡ What I Build
 
-🔹 AI Job Scraper Systems  
-🔹 Workflow Automation with n8n  
-🔹 Selenium Testing Frameworks  
-🔹 AI-integrated Web Applications  
-🔹 Full-stack Django Projects  
-🔹 Portfolio & Product Websites  
+<table align="center">
+<tr>
+<td width="33%" align="center">
 
----
+### 🔹 AI Job Scraper Systems
+Smart automated data pipelines
+
+</td>
+<td width="33%" align="center">
+
+### 🔹 Workflow Automation
+n8n-powered orchestration
+
+</td>
+<td width="33%" align="center">
+
+### 🔹 Selenium Testing
+Robust QA frameworks
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+### 🔹 AI-Integrated Web Apps
+LLM-driven product features
+
+</td>
+<td width="33%" align="center">
+
+### 🔹 Full-Stack Django Projects
+End-to-end backend systems
+
+</td>
+<td width="33%" align="center">
+
+### 🔹 Portfolio & Product Sites
+Polished, production-ready UI
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ## 🛠 Tech Stack
+
+<div align="center">
 
 ### 🎨 Frontend
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -41,8 +91,6 @@ Building AI-powered applications, automation systems, and scalable web products.
 ![WCAG](https://img.shields.io/badge/WCAG_Accessibility-005A9C?style=for-the-badge)
 ![Micro-frontends](https://img.shields.io/badge/Micro--frontends-FF6B6B?style=for-the-badge)
 
----
-
 ### ⚙️ Backend & Cloud
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -51,22 +99,16 @@ Building AI-powered applications, automation systems, and scalable web products.
 ![Vercel](https://img.shields.io/badge/Vercel_CI/CD-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway_Deployment-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
----
-
 ### 🧪 Testing & QA
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![BDD](https://img.shields.io/badge/BDD-6A1B9A?style=for-the-badge)
-
----
 
 ### 📈 SEO & Analytics
 ![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=google&logoColor=white)
 ![GA4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
 ![SEOptimer](https://img.shields.io/badge/SEOptimer-00AEEF?style=for-the-badge)
-
----
 
 ### 🤖 AI & LLM Tooling
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
@@ -77,69 +119,115 @@ Building AI-powered applications, automation systems, and scalable web products.
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-FF4D4D?style=for-the-badge)
 
----
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 AI Job Scraper
 Smart automated job scraping and filtering system.
 
+</td>
+<td width="50%">
+
 ### 🌍 JourneyScript
 Travel itinerary builder with PDF generation.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🌐 Portfolio Website
 Personal portfolio showcasing skills and projects.
 
+</td>
+<td width="50%">
+
 ### 🧪 Selenium Testing Projects
 Web automation and testing framework.
 
----
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Suman9496&show_icons=true&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suman9496&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Suman9496&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman9496&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman9496&layout=compact&theme=tokyonight"/>
-</p>
+<br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suman9496&theme=tokyonight&hide_border=true" width="60%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suman9496&theme=tokyo-night&hide_border=true" width="90%"/>
+
+</div>
+
+<details>
+<summary align="center">🐍 My GitHub Activity Snake</summary>
+<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Suman9496/Suman9496/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ## 📚 Currently Building
 
-- AI Job Scraper System  
-- Advanced n8n Automations  
-- Selenium Testing Framework  
-- AI Resume Analyzer  
-- Django AI Apps  
-
----
+- 🤖 AI Job Scraper System
+- ⚡ Advanced n8n Automations
+- 🧪 Selenium Testing Framework
+- 📄 AI Resume Analyzer
+- 🐍 Django AI Apps
 
 ## 🏆 Certifications
 
-✔ Python (HackerRank)  
-✔ JavaScript (HackerRank)  
-✔ CSS Certificate  
-✔ Problem Solving (Basic)  
-✔ Java (Basic)  
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-HackerRank-2EA44F?style=for-the-badge&logo=hackerrank)
+![JavaScript](https://img.shields.io/badge/JavaScript-HackerRank-2EA44F?style=for-the-badge&logo=hackerrank)
+![CSS](https://img.shields.io/badge/CSS-Certificate-2EA44F?style=for-the-badge&logo=css3)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Basic-2EA44F?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-Basic-2EA44F?style=for-the-badge&logo=java)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ## 🌍 Connect With Me
 
-💼 LinkedIn: (https://www.linkedin.com/in/shuman76/)
-🧠 HackerRank: https://www.hackerrank.com/profile/shuman76  
-📧 Email: shumank135@gmail.com  
-🌐 Portfolio: (https://suman9496.github.io/)
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuman76/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shuman76)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shumank135@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D97757?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suman9496.github.io/)
 
-## ⚡ Personal Motto
+</div>
 
-Build. Automate. Improve. Repeat.
+<div align="center">
+
+### ⚡ Personal Motto
+
+<h3>"Build. Automate. Improve. Repeat."</h3>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
